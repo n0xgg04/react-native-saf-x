@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.reactnativesafx.react-native-saf-x-merged_res-20:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.reactnativesafx.react-native-saf-x-core-1.7.0-15:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.reactnativesafx.react-native-saf-x-merged_res-20:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.reactnativesafx.react-native-saf-x-core-1.7.0-15:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.reactnativesafx.react-native-saf-x-merged_res-20:/layout-v21/notification_action.xml",
+        "source": "com.reactnativesafx.react-native-saf-x-core-1.7.0-15:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.reactnativesafx.react-native-saf-x-merged_res-20:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.reactnativesafx.react-native-saf-x-core-1.7.0-15:/layout-v21/notification_template_icon_group.xml"
+    }
+]
